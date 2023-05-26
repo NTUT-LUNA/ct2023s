@@ -5,14 +5,14 @@
 ## Homework checklist
 
 - [X] HW01
-- [ ] HW02
+- [X] HW02
 - [ ] HW03
 - [ ] HW04
 - [X] HW05
 - [ ] ~~HW06~~
-- [ ] HW07
-- [ ] HW08
-- [ ] HW09
+- [ ] ~~HW07~~
+- [ ] ~~HW08~~
+- [ ] ~~HW09~~
 - [ ] HW10
 - [X] HW11
 - [X] HW12
