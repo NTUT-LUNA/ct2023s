@@ -1,6 +1,6 @@
 # 字體設計與文字編碼 Computer Typography and Character Encoding
 
-- [github pages](ntut-luna.github.io/ct2023s/)
+- [github pages](https://ntut-luna.github.io/ct2023s/)
 
 ## Homework checklist
 
